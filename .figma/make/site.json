@@ -1,0 +1,10 @@
+{
+  "description": "Streamlines task management by allowing users to create, organize, and track projects efficiently for improved productivity and collaboration.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
